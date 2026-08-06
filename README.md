@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Michael+Kelvin+Tanzil+👋;Full-Stack+Software+Developer+🚀;C%23+·+.NET+·+Next.js+·+Laravel;+Building+Scalable+Web+Applications+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+%F0%9F%9A%80;C%23+.NET+%C2%B7+Next.js+%C2%B7+Laravel;Building+Scalable+Web+Solutions+%E2%9C%A8)](https://git.io/typing-svg)
 
-<br />
+</div>
 
-> **Full-Stack Developer** focused on scalable architecture, seamless UX, and clean code.
+# 👋 Hi, I'm Michael Kelvin Tanzil!
 
-<br />
+> Full-Stack Developer | Building scalable, production-ready web applications 🚀
+
+## 🌟 About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mktanzil06@gmail.com)
