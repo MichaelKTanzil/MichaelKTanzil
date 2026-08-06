@@ -4,21 +4,13 @@
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MichaelKTanzil&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)](https://github.com/MichaelKTanzil)
+> **Full-Stack Developer** focused on scalable architecture, seamless UX, and clean code.
 
 <br />
 
-> **Turning coffee and software architecture into seamless digital experiences ⚡**
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MichaelKTanzil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mktanzil06@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=MichaelKTanzil&label=VIEWS&style=for-the-badge&color=0e75b6)](https://github.com/MichaelKTanzil)
 
 </div>
 
@@ -26,7 +18,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently building:** enterprise-grade full-stack web solutions with **React**, **Next.js**, and **.NET Core**.
+- 🔭 **Currently building:** enterprise-grade full-stack web solutions using **C# .NET**, **React / Next.js**, and **Laravel**.
 - 🌱 **Learning:** high-performance system design, **Next.js 15**, and database query optimization.
 - 👯 **Open to collaborate on:** modern web applications, open-source developer tools, and creative UI/UX projects.
 - 🎬 **Fun fact:** I debug code by day and color-grade videos by night 📼
@@ -42,47 +34,22 @@
 
 <br />
 
-### **Databases, Cloud & DevOps**
+### **Databases, Cloud & Tools**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb,git,vscode,postman,figma,vercel,azure&theme=dark&perline=10" alt="Databases & Tools" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelKTanzil&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="90%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelKTanzil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MichaelKTanzil)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelKTanzil&theme=tokyonight&hide_border=true)](https://github.com/MichaelKTanzil)
 
-<br /><br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=MichaelKTanzil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelKTanzil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKTanzil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mktanzil06@gmail.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKTanzil&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MichaelKTanzil)
 
 </div>
