@@ -38,10 +38,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelKTanzil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKTanzil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 </div>
 
 ## Connect With Me
