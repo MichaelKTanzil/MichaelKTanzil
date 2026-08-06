@@ -41,15 +41,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Achievements & Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MichaelKTanzil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelKTanzil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=MichaelKTanzil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKTanzil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelKTanzil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
